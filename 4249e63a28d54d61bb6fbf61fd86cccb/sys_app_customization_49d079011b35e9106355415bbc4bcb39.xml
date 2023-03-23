@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_customization">
+    <sys_app_customization action="INSERT_OR_UPDATE">
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-23 22:42:08</sys_created_on>
+        <sys_id>49d079011b35e9106355415bbc4bcb39</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-23 22:42:08</sys_updated_on>
+        <vendor_app display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</vendor_app>
+        <vendor_app_version>28.0.4</vendor_app_version>
+        <version>1.0.0</version>
+        <war_version>glide-utah-12-21-2022__patch0-01-18-2023_01-18-2023_1907.zip</war_version>
+    </sys_app_customization>
+</record_update>
